@@ -1,3 +1,5 @@
+// Description: compute gcd of two integers - non-recursive  
+
 #include <iostream>
 using namespace std;
 
