@@ -1,4 +1,4 @@
-# C-Language
+# C++ Language
 Subset C++ Practice codes of Google C++ class (https://developers.google.com/edu/c++)
 
 ## Compile C++ program
